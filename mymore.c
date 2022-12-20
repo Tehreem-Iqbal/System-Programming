@@ -1,5 +1,3 @@
-//more09: ADD FUNCTIONALITY  to open file in vim
-
   
 #include <stdlib.h>
 #include <stdio.h>
