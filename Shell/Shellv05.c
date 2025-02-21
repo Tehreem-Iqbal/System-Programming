@@ -64,6 +64,7 @@ int main(){
 	printf("\n");
 	return 0;
 }
+
 int execute(char* arglist[]){
 	k--;
 	history[k++];
